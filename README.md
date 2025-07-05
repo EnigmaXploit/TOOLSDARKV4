@@ -14,6 +14,7 @@ Untuk menggunakan alat-alat ini, ikuti langkah-langkah instalasi di bawah ini di
 pkg update
 pkg install nala -y
 nala install git bash -y
+nala install nodejs
 nala install sox mpv -y
 nala install cowsay ruby -y
 nala install binutils zip unzip -y
